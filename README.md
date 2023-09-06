@@ -1,2 +1,5 @@
 # expressionTrees
-Uses object oriented programming and binary search trees to convert an infix expression to postfix and prefix. 
+
+This is a project I did while learning data structures. 
+
+I use linked lists and stacks to take an infix expression and convert it to a prefix and postfix expressions. 
